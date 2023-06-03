@@ -1,0 +1,23 @@
+#perrito {
+    width: 170px;
+}
+
+#gatitos {
+    width: 180px;
+}
+
+#aves {
+    width: 170px;
+}
+
+
+
+body {
+    background-image: url(/img/fondopok.jpg) ;
+    background-size:contain ;
+    background-repeat: repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}

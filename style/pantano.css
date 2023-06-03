@@ -1,0 +1,11 @@
+img {
+    display: block;
+    margin: 0 auto;
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 70px;
+}
+
+body{
+  background-image: url(/img/muk2.jpg);
+}

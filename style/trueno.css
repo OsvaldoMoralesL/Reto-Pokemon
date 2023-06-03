@@ -1,0 +1,42 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image: url(/img/papaswal.jpg);
+    
+    margin: 0;
+    padding: 75px;
+
+  }
+
+  img {
+    display: block;
+    margin: 0 auto;
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 80px;
+}
+
+  a {
+    
+    color: darkred;
+  }
+  
+  h1 {
+    text-align: center;
+    color: #bf2f2f;
+  }
+  
+
+  .ingredientes {
+    margin-bottom: 40px;
+  }
+  
+  .pasos {
+
+    margin-bottom: 90px;
+  }
+  
+  p {
+    font-family: fantasy ;
+    font-style: oblique ;
+    font-size: large;
+  }
